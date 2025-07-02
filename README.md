@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/sujalsharma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ersujalsharma" target="_blank">
@@ -16,7 +16,7 @@
   <a href="mailto:sujalsharmaprofessional@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+  <a href="https://leetcode.com/sujalsharma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
 </p>
@@ -72,7 +72,7 @@
 
 ## 🌟 Featured Projects
 
-- [URL Shortener](https://github.com/ersujalsharma/url-shortener)  
+- [URL Shortener](https://github.com/ersujalsharma/URLShortener)  
   RESTful API for short URLs with analytics, Redis caching, Zookeeper service discovery, and Dockerized deployment.
 
 - [E-Pharmacy Platform](https://github.com/ersujalsharma/e-pharmacy)  
@@ -95,7 +95,7 @@
 ## 📢 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/sujalsharma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sujalsharmaprofessional@gmail.com" target="_blank">
