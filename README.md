@@ -75,11 +75,8 @@
 - [URL Shortener](https://github.com/ersujalsharma/URLShortener)  
   RESTful API for short URLs with analytics, Redis caching, Zookeeper service discovery, and Dockerized deployment.
 
-- [E-Pharmacy Platform](https://github.com/ersujalsharma/e-pharmacy)  
-  Microservices architecture, secure REST APIs, Kafka integration, and dynamic load balancing.
-
-- [FoodAdda](https://github.com/ersujalsharma/foodadda)  
-  Restaurant management backend with optimized APIs and MySQL performance tuning.
+- [Personal-Finance-Tracker-System](https://github.com/ersujalsharma/Personal-Finance-Tracker-System)  
+  A secure web-based application for tracking income, expenses, and savings using JWT-based authentication and real-time financial insights.
 
 ---
 
